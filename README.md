@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript,Sql,C#,HTML,CSS
 - 💞️ I’m looking to collaborate on atm im just getting familiar with platform 
 - 📫 How to reach me > send me message here on Git 
-- 😄 Pronouns: LGBTQHDTV
 - ⚡ Fun fact: I do a lot of things beside sitting on computer !
 
 <!---
